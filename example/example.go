@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/jftuga/geodist"
+
+	"github.com/NicSmi/geodist"
 )
 
 func main() {
